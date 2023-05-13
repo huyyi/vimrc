@@ -7,3 +7,6 @@
 [submodule "vim/pack/tpope/start/commentary"]
 	path = vim/pack/tpope/start/commentary
 	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/pack/tpope/start/vim-sleuth"]
+	path = vim/pack/tpope/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
